@@ -1,0 +1,33 @@
+{
+  "name": "vue-vuetify-project",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "core-js": "^3.25.3",
+    "vue": "^2.6.14",
+    "vue-router": "^3.5.3",
+    "vuetify": "^2.6.5"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.15.0",
+    "@vue/cli-plugin-babel": "^5.0.0",
+    "@vue/cli-plugin-eslint": "^5.0.0",
+    "@vue/cli-service": "^5.0.0",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^8.57.1",
+    "eslint-plugin-vue": "^9.31.0",
+    "globals": "^15.12.0",
+    "vue-template-compiler": "^2.6.14"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
